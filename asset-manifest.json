@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sri-gopala/static/css/main.1a1646a0.chunk.css",
+    "main.js": "/sri-gopala/static/js/main.b1c0ef30.chunk.js",
+    "main.js.map": "/sri-gopala/static/js/main.b1c0ef30.chunk.js.map",
+    "runtime-main.js": "/sri-gopala/static/js/runtime-main.582e4ced.js",
+    "runtime-main.js.map": "/sri-gopala/static/js/runtime-main.582e4ced.js.map",
+    "static/js/2.26c2d070.chunk.js": "/sri-gopala/static/js/2.26c2d070.chunk.js",
+    "static/js/2.26c2d070.chunk.js.map": "/sri-gopala/static/js/2.26c2d070.chunk.js.map",
+    "index.html": "/sri-gopala/index.html",
+    "precache-manifest.f9f5a79ab97127be9dbb1c9e7b384947.js": "/sri-gopala/precache-manifest.f9f5a79ab97127be9dbb1c9e7b384947.js",
+    "service-worker.js": "/sri-gopala/service-worker.js",
+    "static/css/main.1a1646a0.chunk.css.map": "/sri-gopala/static/css/main.1a1646a0.chunk.css.map",
+    "static/js/2.26c2d070.chunk.js.LICENSE": "/sri-gopala/static/js/2.26c2d070.chunk.js.LICENSE",
+    "static/media/logo.svg": "/sri-gopala/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.582e4ced.js",
+    "static/js/2.26c2d070.chunk.js",
+    "static/css/main.1a1646a0.chunk.css",
+    "static/js/main.b1c0ef30.chunk.js"
+  ]
+}
